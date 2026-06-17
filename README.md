@@ -1,6 +1,7 @@
 # GA4 E-commerce Funnel Analysis
 
-![Dashboard](GitHub/Dashboard_E_Commerce.png)
+<img width="1251" height="791" alt="image" src="https://github.com/user-attachments/assets/ee7285ec-26a7-4d37-aafd-a5d97eb91fcb" />
+
 
 ## Опис проєкту
 GA4 E-commerce Funnel Analysis
